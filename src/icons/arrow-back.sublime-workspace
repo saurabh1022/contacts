@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"listOfBinary"
+			],
+			[
+				"a",
+				"aon_list"
+			],
+			[
+				"tD",
+				"tdMat"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"ter",
+				"terms_list"
+			],
+			[
+				"an",
+				"aon_list"
+			],
+			[
+				"po",
+				"pop"
+			],
+			[
+				"n",
+				"nextTerm"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"term",
+				"terms_list"
+			],
+			[
+				"ps",
+				"posting"
+			],
+			[
+				"query",
+				"query_token"
+			],
+			[
+				"bi",
+				"binaryList"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"quer",
+				"query_token"
+			],
+			[
+				"bin",
+				"binArray"
+			],
+			[
+				"b",
+				"bFinal"
+			],
+			[
+				"que",
+				"query_token"
+			],
+			[
+				"word",
+				"word_tokenize"
+			],
+			[
+				"wo",
+				"wordTokens"
+			],
+			[
+				"fil",
+				"fileReader"
+			],
+			[
+				"wor",
+				"wordTokens"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"uni",
+				"unique_tokens"
+			],
+			[
+				"c",
+				"cToken"
+			],
+			[
+				"to",
+				"toRead"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"eng",
+				"engagements"
+			],
+			[
+				"en",
+				"enrollments"
+			],
+			[
+				"su",
+				"submissons_filename"
+			],
+			[
+				"the",
+				"then"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/saurabh/.profile",
+		"/home/saurabh/Downloads/b.py",
+		"/home/saurabh/Downloads/decision_tree.py",
+		"/home/saurabh/TDMatrix/readDocs.py",
+		"/usr/local/hadoop/mapper.py",
+		"/home/saurabh/TDMatrix/booleanRetrieval.py",
+		"/home/saurabh/TDMatrix/txtFiles/file1.txt",
+		"/usr/local/lib/python2.7/dist-packages/nltk/data.py",
+		"/home/saurabh/TDMatrix/txtFiles/file4.txt",
+		"/home/saurabh/contacts/src/App.js",
+		"/home/saurabh/contacts/src/icons/arrow-back.svg",
+		"/home/saurabh/TDMatrix/txtFiles/file3.txt",
+		"/home/saurabh/TDMatrix/txtFiles/file2.txt",
+		"/home/saurabh/.bash_profile",
+		"/home/saurabh/.bashrc",
+		"/home/saurabh/anaconda3/ipython_notebook_tutorial.ipynb",
+		"/home/saurabh/csvtest.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "arrow-back.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
